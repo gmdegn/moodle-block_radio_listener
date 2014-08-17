@@ -1,0 +1,52 @@
+#rdo {
+	padding-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center ;
+}
+#nplin {
+	position: relative;
+	left: 5px;
+}
+audio {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center ;
+}
+#bttn{
+	background-color:transparent;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:40px;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:14px;
+	text-decoration:none;
+	padding: 0px;
+}
+audio:hover, audio:focus, audio:active{
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+h4{
+	padding: 0px;
+	margin: 0px;
+}
+h6{
+	padding: 0px;
+	margin: 0px;
+}
+#btn{
+	background-color:transparent;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:40px;
+	display:inline-block;
+	color:#000000;
+	font-family:arial;
+	font-size:18px;
+	text-decoration:none;
+	padding: 5px, 10px;
+}
